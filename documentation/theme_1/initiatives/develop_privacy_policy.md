@@ -8,11 +8,12 @@ Goals: Provide users with clear information about how their data is being used a
 
 **User Stories:**
 
-    As a website owner, I want to create a privacy policy page so that users can understand how their data is being used on the website.
+    As a website owner, I want to create a privacy policy page so that users can easily understand how their data is being used on the website.
 
 **Acceptance Criteria:**
 
 - A privacy policy page has been created and is accessible from the website footer
+- The privacy policy is written in plain language that is easy for users to understand
 - The privacy policy clearly outlines what data is being collected, how it is being used, and how users can control their data
 
 **Tasks:**
