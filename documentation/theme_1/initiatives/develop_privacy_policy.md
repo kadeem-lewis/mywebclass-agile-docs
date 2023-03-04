@@ -15,6 +15,7 @@ Goals: Provide users with clear information about how their data is being used a
 - A privacy policy page has been created and is accessible from the website footer
 - The privacy policy is written in plain language that is easy for users to understand
 - The privacy policy clearly outlines what data is being collected, how it is being used, and how users can control their data
+- The privacy policy includes a date and revision history to help users understand when changes were made to the policy.
 
 **Tasks:**
 
