@@ -4,16 +4,18 @@
 
 For this assignment, you need to develop an initial draft of project documentation based on the principles of the [Agile
 Manifesto - MUST READ](https://agilemanifesto.org/principles.html)
-and [Lean - READ ALL THE  PARTS 1-7 THAT ARE LINKED ON THE LEFT](https://www.planview.com/resources/guide/lean-principles-101/).
+and [Lean - READ ALL THE PARTS 1-7 THAT ARE LINKED ON THE LEFT](https://www.planview.com/resources/guide/lean-principles-101/).
 The purpose of this assignment is to help you
 develop the mindset required take an idea and turn it into a product that people value. This is an open ended assignment
 meaning that you need to think and create and not just follow a set of instructions. You are the one creating
 instructions for yourself and the development team that you will be part of and/or possibly leading in the future. For
 this assignment, you should use ChatGPT as much as possible to help you write good documentation. It is very good at
 taking what you mean to say and turning into this type of documentation.
+
 # Videos
-* **[Agile Lean Part 1](https://youtu.be/e4FLisvf7vg)**
-* **[Agile Lean Part 2](https://youtu.be/KIxQaWsG3vk)**
+
+- **[Agile Lean Part 1](https://youtu.be/e4FLisvf7vg)**
+- **[Agile Lean Part 2](https://youtu.be/KIxQaWsG3vk)**
 
 ## Scope of the exercise
 
@@ -48,31 +50,31 @@ user story and eventually a test for it.
 2. In order to facilitate communication and provide a structure for project planning you must organize your project into
    themes, initiative, epics, user stories, and tasks, which are terms used within agile.
    **Themes:**
-    * Themes are high-level categories of work that align with an organization's strategic objectives. They help to
-      define and communicate the focus areas for a project or product. Themes can be used to organize and prioritize
-      work, guide decision-making, and ensure that efforts are aligned with business goals.
-      **Initiatives:**
-    * Initiatives are a collection of related projects and activities that are aligned with a common goal or objective.
-      They help to break down larger goals into smaller, manageable pieces. Initiatives are usually larger in scope than
-      epics and are typically managed by a program or portfolio management team.
-      **Epics:**
-    * Epics are large pieces of work that can be broken down into smaller, more manageable pieces (i.e., user stories).
-      They are larger in scope than user stories and often require coordination across multiple teams. Epics typically
-      represent a major business or technical challenge that needs to be addressed.
-      **User Stories:**
-    * User stories are short, simple descriptions of a feature or piece of functionality from the perspective of a user
-      or customer. They are used to communicate requirements and prioritize work. User stories are typically small in
-      scope and can be completed in a single sprint (i.e., a short, time-boxed period of work). They help to ensure that
-      development efforts are focused on delivering value to the end user.
-      **Tasks:**
-    * Agile Tasks:
-    * Tasks are the smallest units of work in Agile development. They are specific, actionable items that need to be
-      completed in order to deliver a user story. Tasks are usually estimated in hours and are used to track progress
-      and identify obstacles. They are typically managed by individual team members and are part of the team's daily
-      work.
+   - Themes are high-level categories of work that align with an organization's strategic objectives. They help to
+     define and communicate the focus areas for a project or product. Themes can be used to organize and prioritize
+     work, guide decision-making, and ensure that efforts are aligned with business goals.
+     **Initiatives:**
+   - Initiatives are a collection of related projects and activities that are aligned with a common goal or objective.
+     They help to break down larger goals into smaller, manageable pieces. Initiatives are usually larger in scope than
+     epics and are typically managed by a program or portfolio management team.
+     **Epics:**
+   - Epics are large pieces of work that can be broken down into smaller, more manageable pieces (i.e., user stories).
+     They are larger in scope than user stories and often require coordination across multiple teams. Epics typically
+     represent a major business or technical challenge that needs to be addressed.
+     **User Stories:**
+   - User stories are short, simple descriptions of a feature or piece of functionality from the perspective of a user
+     or customer. They are used to communicate requirements and prioritize work. User stories are typically small in
+     scope and can be completed in a single sprint (i.e., a short, time-boxed period of work). They help to ensure that
+     development efforts are focused on delivering value to the end user.
+     **Tasks:**
+   - Agile Tasks:
+   - Tasks are the smallest units of work in Agile development. They are specific, actionable items that need to be
+     completed in order to deliver a user story. Tasks are usually estimated in hours and are used to track progress
+     and identify obstacles. They are typically managed by individual team members and are part of the team's daily
+     work.
 3. Our goal is to develop a "pull" process for the development of the MyWebClass product and minimize or eliminate the
    amount of "push" in the MyWebClass.org
-   project.  [Read this about the difference between push and pull to understand how these concepts relate to product development.](documentation/reading/push_vs_pull.md)
+   project. [Read this about the difference between push and pull to understand how these concepts relate to product development.](documentation/reading/push_vs_pull.md)
 4. Every theme, initiative, epic, user story, and task needs a way to test that it is working. You can specify automated
    testing i.e. pytest for unit testing, Playwright for end to end testing, or manual testing. You may need to combine
    both manual and automated testing for themes, epics, and initiatives; however, tasks and user stories should us some
@@ -89,17 +91,17 @@ For this assignment you will need to find a partner to review your project docum
 their documentation. Compare both of your project plans and create a list of the changes you decide to implement and
 file them as issues on your repository. Resolve the issues using branches and merge the branch into main, so that you
 have the best version of your project plan that combines the best ideas of you and your partner. Do not do the first
-draft of the plan together, design it yourself and you should review your partners plan, and they should review yours.  Practice using the GitHub comment and review tool to review the agile tasks.  [Watch this video on how to do a code review using GitHUb](https://www.youtube.com/watch?v=8fx-EaOUK2E)
+draft of the plan together, design it yourself and you should review your partners plan, and they should review yours. Practice using the GitHub comment and review tool to review the agile tasks. [Watch this video on how to do a code review using GitHUb](https://www.youtube.com/watch?v=8fx-EaOUK2E)
 
 ### Grading Rubric
 
-1. 25 Points for having at least 5 comments on your code by your partner that result in 5 issues being created and  resolved.
-2. 50 Points effective and sensible organization of your project that applies Agile and Lean ideas.   Use ChatGPT to help you with the writing, so that its written with a professional business tone and vocabulary. 
+1. 25 Points for having at least 5 comments on your code by your partner that result in 5 issues being created and resolved.
+2. 50 Points effective and sensible organization of your project that applies Agile and Lean ideas. Use ChatGPT to help you with the writing, so that its written with a professional business tone and vocabulary.
 3. 25 Points for demonstrating that you understand that each activity needs to be measured and that each task needs some combination of manual and automated testing.
 
 ### Submission
-Once you have the best version of your project plan after comparing it and resoling the issues turn the plan into Canvas.
 
+Once you have the best version of your project plan after comparing it and resoling the issues turn the plan into Canvas.
 
 ## Overview
 
@@ -111,11 +113,11 @@ business processes to provide realistic scenarios for students to learn technolo
 
 ### Templates - Modify these as necessary
 
-* [Theme Template](documentation/templates/theme/theme_template.md)
-* [Initiative Template](documentation/templates/theme/initiatives/initiative_template.md)
-* [Epic Template](documentation/templates/theme/initiatives/epics/epic_template.md)
-* [User Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
-* [Task Template](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+- [Theme Template](documentation/templates/theme/theme_template.md)
+- [Initiative Template](documentation/templates/theme/initiatives/initiative_template.md)
+- [Epic Template](documentation/templates/theme/initiatives/epics/epic_template.md)
+- [User Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+- [Task Template](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 
 ## My Rough Draft
 
@@ -130,13 +132,13 @@ your needs, it can be adjusted, given that we are still in the early stages of t
 
 At this juncture, the efficacy of the documentation is measured by how well it enables us to manage the project. We will
 review this effectiveness before the next iteration of the project.
-# Your  plan should replace the content below
 
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+# Your plan should replace the content below
+
+[Project Setup](documentation/theme_1/user_analytics_privacy.md)
 
 ## Release Schedule
 
 | Release Version | Release Date | Features |
-|-----------------|--------------|----------|
+| --------------- | ------------ | -------- |
 | 0.1.x           | TBD          | TBD      |
-
